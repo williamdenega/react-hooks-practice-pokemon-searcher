@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "el primoooooo",
+      "hp": 156,
+      "sprites": {
+        "front": "https://pngset.com/images/el-primo-wiki-skins-e-ataques-brawl-stars-el-primo-brawl-stars-person-human-angry-birds-toy-transparent-png-2730345.png",
+        "back": "https://cdn.shopify.com/s/files/1/0593/4088/2114/products/elprimoback_1024x1024.jpg?v=1629467155"
+      },
+      "id": 151
     }
   ]
 }
